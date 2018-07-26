@@ -1,5 +1,5 @@
 
-![alt text](https://drive.google.com/open?id=1NlnKXotRysUXi4BCMfOtGG2uhZ1bf6L6) 
+![alt text](https://github.com/akhilsharma12297/Theprimabus/blob/master/pr.png) 
 # Theprimabus
 
 Prima bus is an application that lets you search, book bus ticket, view your booked tickets and cancel booked tickets. Those who are interested in inquiring about the Bus Type, its Tickets Price, available seats, facility of the bus etc. has to walk to the Booking office. This application makes this easy, now you can enquire about the bus, book bus ticket and cancel your ticket sitting at your home.
